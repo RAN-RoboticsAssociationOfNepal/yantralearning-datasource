@@ -46,3 +46,7 @@ Some Important Data source are:
 * [Deits 11 - Nutritionix](https://www.nutritionix.com/)
 * [Diets 12 - What's in food](https://www.nutrition.gov/subject/whats-in-food)
 
+## Soil Data
+* [Crop area map](https://maps.qed.ai/map/nsaf_cropland_binary) [Need log in to download data]
+* [Building map](https://maps.qed.ai/map/nepal_hh_fcn) [Need log in to download data]
+* [Soil map of terai](https://nsafmap.github.io/ ) [Need github account to download tif file]
